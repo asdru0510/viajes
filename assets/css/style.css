@@ -24,3 +24,6 @@ body {
 #container-nav{
     padding-inline: 5vw;
 }
+.container-card{
+    width:24%
+}
