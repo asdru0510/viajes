@@ -1,9 +1,26 @@
 body {
-  font-family: "Reddit Mono", monospace;
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
 }
-.reddit-700{
+
+.open-s-700{
     font-weight: 700;
+}
+
+.bg-nav{
+    background-color: #58b4bc;
+  }
+
+#navbarNav{
+    justify-content: right;
+    font-size: 20px;    
+  }
+#logo{
+    width: 32px;
+    height: 32px;
+}
+#container-nav{
+    padding-inline: 5vw;
 }
