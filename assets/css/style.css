@@ -1,0 +1,9 @@
+body {
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.reddit-700{
+    font-weight: 700;
+}
