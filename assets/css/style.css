@@ -24,6 +24,9 @@ body {
 #container-nav{
     padding-inline: 5vw;
 }
+.img-carousel{
+    height: 100vh;
+}
 .container-card{
     width:24%
 }
