@@ -30,3 +30,24 @@ body {
 .container-card{
     width:24%
 }
+#icons, .p-footer{
+  align-content: center;
+}
+
+.p-footer{
+  margin: 0;
+
+}
+
+.card img{
+  height: 25vh;
+}
+
+
+/* media query <768px */
+@media screen and (max-width: 767px) {
+
+  .card img{
+    height: 100%;
+  }
+}
